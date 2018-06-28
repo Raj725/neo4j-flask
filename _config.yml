@@ -7,4 +7,4 @@ title: neo4j-flask
 description: A microblog application powered by Flask and Neo4j.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
